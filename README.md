@@ -10,7 +10,7 @@ These reference designs are complete designs and can also serve as starting temp
 
 ---------------------------------------
 
-[![thingSoC TSOC_MINIPROG_ADAPTER](http://thingsoc.github.io/img/projects/TSOC_MINIPROG_ADAPTER/TSOC_MINIPROG_ADAPTER_top.png)  
+[![thingSoC TSOC_MINIPROG_ADAPTER](https://github.com/thingSoC/TSOC_MINIPROG_ADAPTER/blob/master/TSOC_MINIPROG_ADAPTER/images/TSOC_MINIPROG_ADAPTER_top.png)  
 *TSOC_MINIPROG_ADAPTER*](https://github.com/thingSoC/)
 
 
