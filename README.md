@@ -23,8 +23,7 @@ These reference designs are complete designs and can also serve as starting temp
 
 ---------------------------------------
 
-[![thingSoC TSOC_MINIPROG_ADAPTER](https://github.com/thingSoC/TSOC_MINIPROG_ADAPTER/blob/master/TSOC_MINIPROG_ADAPTER/images/TSOC_MINIPROG_ADAPTER_top.png)  
-*TSOC_MINIPROG_ADAPTER*](https://github.com/thingSoC/) [![thingSoC TSOC_MINIPROG_ADAPTER](https://github.com/thingSoC/TSOC_MINIPROG_ADAPTER/blob/master/TSOC_MINIPROG_ADAPTER/images/TSOC_MINIPROG_ADAPTER_bot.png) *TSOC_MINIPROG_ADAPTER*](https://github.com/thingSoC/)
+[![thingSoC TSOC_MINIPROG_ADAPTER](https://github.com/thingSoC/TSOC_MINIPROG_ADAPTER/blob/master/TSOC_MINIPROG_ADAPTER/images/TSOC_MINIPROG_ADAPTER_top.png) *TSOC_MINIPROG_ADAPTER*](https://github.com/thingSoC/) [![thingSoC TSOC_MINIPROG_ADAPTER](https://github.com/thingSoC/TSOC_MINIPROG_ADAPTER/blob/master/TSOC_MINIPROG_ADAPTER/images/TSOC_MINIPROG_ADAPTER_bot.png) *TSOC_MINIPROG_ADAPTER*](https://github.com/thingSoC/)
 
 
 * thingSoC Compliant Module
