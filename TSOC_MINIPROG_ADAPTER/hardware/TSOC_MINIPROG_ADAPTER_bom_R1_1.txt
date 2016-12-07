@@ -1,0 +1,9 @@
+Partlist exported from U:/PatternAgents/eagle/TSOC_Modules/TSOC_MINIPROG_ADAPTER/TSOC_MINIPROG_ADAPTER/TSOC_MINIPROG_ADAPTER.sch at 12/6/2016 3:27:42 PM 
+                                                                                                                                                         
+Qty Value           Device          Package          Parts           Description                          BOM                               
+2                   M05PTH          1X05             ISSP, MINIPROG  Header 5                             WM4303-ND        Molex-kk-5pin-mral 0022053051                                  
+1                   M08X2           2X8              J1              .1" headers, Female, RA              S9204-ND         SFH11-PBPC-D08-RA-BK                                       
+1   0.1uF           CAP0603-CAP     0603-CAP         C1              0.1uF Capacitor                                                                                                                   
+1   FTDI_DEVICE     FTDI_DEVICE     1X06             JP1             .1" headers, Male, RA, Unshrouded    0.1 R/A Breakaway                              
+1   TSOC-PCB-HALF   TSOC-PCB-HALF   TSOC-BB-BRD-HALF PCB             thingSoC PCB                                                                
+                                                                                                                                                         
